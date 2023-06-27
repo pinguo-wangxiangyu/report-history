@@ -1,0 +1,10 @@
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-26 18:52:08]当前用例运行产品：C360_Android
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-26 18:52:08]当前Allure断言信息区间为：All
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-26 18:52:08]当前日志级默认级别为: info 
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-26 18:52:08]当前用例运行模块：C360_兼容接口滤镜包
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-26 18:52:08]当前接口请求超时时间为： 10 s
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-26 18:52:08]Start Class...
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-26 18:52:08]Start Method...
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-26 18:52:08]开始执行用例：00001_值获取
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-26 18:52:08]Request url:https://cdn-bm.camera360.com/api/product/query
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-26 18:52:09]Finish Method...
